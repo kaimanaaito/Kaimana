@@ -1,0 +1,17 @@
+streamlit
+polars
+fpdf
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+reportlab
+kaleido
+lightgbm
+xgboost
+optuna
+shap
+joblib
